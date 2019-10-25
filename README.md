@@ -36,6 +36,7 @@ The title says it all.
 
 ### Possible Features
 * Sentiment of the Statement
+* Appearence of the statement in reliable/non-reliable or biased/un-biased sources
 
 ...
 
