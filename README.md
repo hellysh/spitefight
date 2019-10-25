@@ -3,7 +3,7 @@ Deep Learning Final Project
 
 ## Readings:
 
-#### [Predicting Factuality of Reporting and Bias of News Media Sources] (https://arxiv.org/pdf/1810.01765.pdf)
+#### [Predicting Factuality of Reporting and Bias of News Media Sources](https://arxiv.org/pdf/1810.01765.pdf)
 - Predicts the factual-ity of reporting and bias of news media.
 - Creates a new dataset of news mediasources, which has annotations for both factual-ity and bias.
 - Provides an overview of related work (Must read for possible feature ideas!).
