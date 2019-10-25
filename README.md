@@ -9,7 +9,7 @@ Deep Learning Final Project
 * Provides an overview of related work (Must read for possible feature ideas!).
 * Uses features such as Structure, Sentiment, Engagement, Topic, Complexity, Bias and Morality.
 * Uses the sources' articles, Wikipedia, Twitter to extract information.
-* Textual features extracted from the ARTICLES yielded the best performance on factuality...the WIKIPEDIA features are less useful for factuality and perform reasonably well for bias...the TWITTER features perform moderately forfactuality and poorly for bias.
+* Textual features extracted from the ARTICLES yielded the best performance on factuality...the WIKIPEDIA features are less useful for factuality and perform reasonably well for bias...the TWITTER features perform moderately for factuality and poorly for bias.
 
 #### [Automated Fact Checking:Task formulations, methods and future directions](https://www.aclweb.org/anthology/C18-1283.pdf) 
 This paper provides many interesting ideas for feature selection and differentiating between claims. For e.g., should numerical claims and position statements be treated differently?
@@ -18,7 +18,7 @@ This paper provides many interesting ideas for feature selection and differentia
 * Makes a dataset via sourcing 12,836 labelled statements from Politifact.
 * Talks about related studies and datasets (Should read).
 * Asks the following research questions: 
-  - Based on surface-level linguistic realizationsonly,  how  well  can  machine  learning  algorithms classify a short statement into a fine-grained category of fakeness?
+  - Based on surface-level linguistic realizations only,  how  well  can  machine  learning  algorithms classify a short statement into a fine-grained category of fakeness?
   - Can we design a deep neural network architecture to integrate speaker related meta-data with text to enhance the performance of fakenews detection?
 * Has dis-heartening results with existing models. 
 
