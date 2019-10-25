@@ -43,14 +43,13 @@ The title says it all.
 
 ### How will it work?
 * Step 1: Convert speech to text
-* Step 2: Determine if it is a claim or an opinion
-
-Below are the questions that Politifact asks in order to determine whether to fact-check a statement or not:
-  - Is the statement rooted in a fact that is verifiable? We don’t check opinions, and we recognize that in the world of speechmaking and political rhetoric, there is license for hyperbole.
-  - Does the statement seem misleading or sound wrong?
-  - Is the statement significant? We avoid minor "gotchas" on claims that are obviously a slip of the tongue.
-  - Is the statement likely to be passed on and repeated by others?
-  - Would a typical person hear or read the statement and wonder: Is that true?
+* Step 2: Determine if it is a claim or an opinion Below are the questions that Politifact asks in order to determine whether to fact-check a statement or not:
+    - Is the statement rooted in a fact that is verifiable? We don’t check opinions, and we recognize that in the world of
+    speechmaking and political rhetoric, there is license for hyperbole.
+    - Does the statement seem misleading or sound wrong?
+    - Is the statement significant? We avoid minor "gotchas" on claims that are obviously a slip of the tongue.
+    - Is the statement likely to be passed on and repeated by others?
+    - Would a typical person hear or read the statement and wonder: Is that true?
 
 * Step 3: If it is a claim, determine the factual-ity of the statement
 
