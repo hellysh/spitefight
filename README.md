@@ -26,7 +26,7 @@ This paper provides many interesting ideas for feature selection and differentia
 This paper builds upon the models in above, and achieves better accuracies.
 
 #### [Using Machine Learning To Move Fact Checking From Articles To Claims](https://www.forbes.com/sites/kalevleetaru/2019/06/25/using-machine-learning-to-move-fact-checking-from-articles-to-claims/#ccdec1b48869) 
-This article talks about ideas very similar to ours. This article is an ideological parallel.
+This article talks about ideas very similar to ours. It is essentially an ideological parallel.
 
 #### [Classifying facts and opinions in Twitter messages: a deep learning-based approach](https://www.tandfonline.com/doi/full/10.1080/2573234X.2018.1506687)
 The title says it all. 
