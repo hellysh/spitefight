@@ -34,6 +34,14 @@ The title says it all.
 
 ## Data Collection:
 
-### Features
+### Possible Features
+* Sentiment of the Statement
+...
+
+### How will it work?
+* Step 1: Convert speech to text
+* Step 2: Determine if it is a claim or an opinion
+* Step 3: If it is a claim, determine the factual-ity of the statement
+...
 
 ## Model:
