@@ -18,8 +18,8 @@ This paper provides many interesting ideas for feature selection and differentia
 * Makes a dataset via sourcing 12,836 labelled statements from Politifact.
 * Talks about related studies and datasets (Should read).
 * Asks the following research questions: 
-  - Based on surface-level linguistic realizationsonly,  how  well  can  machine  learning  algo-rithms classify a short statement into a fine-grained category of fakeness?
-  - Can we design a deep neural network archi-tecture to integrate speaker related meta-data with text to enhance the performance of fakenews detection?
+  - Based on surface-level linguistic realizationsonly,  how  well  can  machine  learning  algorithms classify a short statement into a fine-grained category of fakeness?
+  - Can we design a deep neural network architecture to integrate speaker related meta-data with text to enhance the performance of fakenews detection?
 * Has dis-heartening results with existing models. 
 
 #### [Where is your Evidence: Improving Fact-checking by Justification Modeling](https://www.aclweb.org/anthology/W18-5513.pdf)
