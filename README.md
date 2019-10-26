@@ -34,6 +34,9 @@ The title says it all.
 
 ## Data Collection:
 
+### Sources
+* [LexisNexis](https://www.lexisnexis.com/en-us/products/nexis.page)
+
 ### Possible Features
 * Sentiment of the Statement
 * Appearence of the statement in reliable/non-reliable or biased/un-biased sources
