@@ -36,6 +36,7 @@ The title says it all.
 
 ### Sources
 * [LexisNexis](https://www.lexisnexis.com/en-us/products/nexis.page)
+* [Critical Mention](https://www.criticalmention.com/)
 
 ### Possible Features
 * Sentiment of the Statement
